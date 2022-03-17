@@ -36,13 +36,13 @@ int main(void) {
     case 9 :
       printf("Setembro \n");
     break;
-	case 10 :
+	  case 10 :
       printf("Outubro \n");
     break;
-	case 11 :
+	  case 11 :
       printf("Novembro \n");
     break;
-	case 12 :
+	  case 12 :
       printf("Dezembro \n");  
     break;
 	default:
